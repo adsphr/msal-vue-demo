@@ -1,5 +1,8 @@
 # MSAL / Vue Demo
 
+adsphr note : had to run with sudo npm run dev 
+	(still errors out with 400 bad request....env variables not set up right proabably)
+
 ![image](https://user-images.githubusercontent.com/132681/221994392-5b42ed54-93c7-4b54-8d23-40c37de0c182.png)
 
 ## Overview
